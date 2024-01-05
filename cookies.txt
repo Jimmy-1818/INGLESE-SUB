@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+business.genuiny.com	TRUE	/	FALSE	1999999999	ARRAffinity	eef76bc7016e3795417723304454635e1de6050271109330ad17ec80dff7ecae
+business.genuiny.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	eef76bc7016e3795417723304454635e1de6050271109330ad17ec80dff7ecae
+business.genuiny.com	TRUE	/	FALSE	1999999999	SameSite	None
+
